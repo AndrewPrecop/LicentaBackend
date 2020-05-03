@@ -16,3 +16,20 @@ F:\Application-ConfiguratorPC\API-Configurator\Core\obj\Debug\netcoreapp2.2\Core
 F:\Application-ConfiguratorPC\API-Configurator\Core\obj\Debug\netcoreapp2.2\Core.AssemblyInfo.cs
 F:\Application-ConfiguratorPC\API-Configurator\Core\obj\Debug\netcoreapp2.2\Core.dll
 F:\Application-ConfiguratorPC\API-Configurator\Core\obj\Debug\netcoreapp2.2\Core.pdb
+C:\Users\gabri\Desktop\Git\LicentaBackend\Core\bin\Debug\netcoreapp2.2\Core.deps.json
+C:\Users\gabri\Desktop\Git\LicentaBackend\Core\bin\Debug\netcoreapp2.2\Core.dll
+C:\Users\gabri\Desktop\Git\LicentaBackend\Core\bin\Debug\netcoreapp2.2\Core.pdb
+C:\Users\gabri\Desktop\Git\LicentaBackend\Core\obj\Debug\netcoreapp2.2\Core.csprojAssemblyReference.cache
+C:\Users\gabri\Desktop\Git\LicentaBackend\Core\obj\Debug\netcoreapp2.2\Core.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Git\LicentaBackend\Core\obj\Debug\netcoreapp2.2\Core.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Git\LicentaBackend\Core\obj\Debug\netcoreapp2.2\Core.dll
+C:\Users\gabri\Desktop\Git\LicentaBackend\Core\obj\Debug\netcoreapp2.2\Core.pdb
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\Core\bin\Debug\netcoreapp2.2\Core.deps.json
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\Core\bin\Debug\netcoreapp2.2\Core.dll
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\Core\bin\Debug\netcoreapp2.2\Core.pdb
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\Core\obj\Debug\netcoreapp2.2\Core.csprojAssemblyReference.cache
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\Core\obj\Debug\netcoreapp2.2\Core.csproj.CoreCompileInputs.cache
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\Core\obj\Debug\netcoreapp2.2\Core.AssemblyInfoInputs.cache
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\Core\obj\Debug\netcoreapp2.2\Core.AssemblyInfo.cs
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\Core\obj\Debug\netcoreapp2.2\Core.dll
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\Core\obj\Debug\netcoreapp2.2\Core.pdb

@@ -11,6 +11,10 @@ namespace API.Mappers
             {
                 Id = component.Id,
                 Name = component.Name,
+                Brand = component.Brand,
+                Description = component.Description,
+                ImagePath = component.ImagePath,
+                Price = component.Price,
                 Amount = component.Amount
             };
         }

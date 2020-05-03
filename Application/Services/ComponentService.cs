@@ -31,6 +31,10 @@ namespace Application.Services
             {
                 Id = Guid.NewGuid(),
                 Name = command.Name,
+                Brand =command.Brand,
+                Description=command.Description,
+                ImagePath=command.ImagePath,
+                Price=command.Price,
                 Amount = command.Amount
             };
 
@@ -44,6 +48,10 @@ namespace Application.Services
             {
                 Id = Guid.Parse(command.Id),
                 Name = command.Name,
+                Brand = command.Brand,
+                Description = command.Description,
+                ImagePath = command.ImagePath,
+                Price = command.Price,
                 Amount = command.Amount
             };
 

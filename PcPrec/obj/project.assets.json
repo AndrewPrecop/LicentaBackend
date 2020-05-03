@@ -12513,11 +12513,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Application-ConfiguratorPC\\API-Configurator\\PcPrec\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Precop Ciprian\\Desktop\\gabi\\LicentaBackend\\PcPrec\\API.csproj",
       "projectName": "API",
-      "projectPath": "F:\\Application-ConfiguratorPC\\API-Configurator\\PcPrec\\API.csproj",
+      "projectPath": "C:\\Users\\Precop Ciprian\\Desktop\\gabi\\LicentaBackend\\PcPrec\\API.csproj",
       "packagesPath": "C:\\Users\\Precop Ciprian\\.nuget\\packages\\",
-      "outputPath": "F:\\Application-ConfiguratorPC\\API-Configurator\\PcPrec\\obj\\",
+      "outputPath": "C:\\Users\\Precop Ciprian\\Desktop\\gabi\\LicentaBackend\\PcPrec\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12536,11 +12536,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "F:\\Application-ConfiguratorPC\\API-Configurator\\Application\\Application.csproj": {
-              "projectPath": "F:\\Application-ConfiguratorPC\\API-Configurator\\Application\\Application.csproj"
+            "C:\\Users\\Precop Ciprian\\Desktop\\gabi\\LicentaBackend\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\Precop Ciprian\\Desktop\\gabi\\LicentaBackend\\Application\\Application.csproj"
             },
-            "F:\\Application-ConfiguratorPC\\API-Configurator\\Data\\Data.csproj": {
-              "projectPath": "F:\\Application-ConfiguratorPC\\API-Configurator\\Data\\Data.csproj"
+            "C:\\Users\\Precop Ciprian\\Desktop\\gabi\\LicentaBackend\\Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\Precop Ciprian\\Desktop\\gabi\\LicentaBackend\\Data\\Data.csproj"
             }
           }
         }

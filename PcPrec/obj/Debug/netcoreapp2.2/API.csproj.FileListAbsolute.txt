@@ -40,3 +40,47 @@ F:\Application-ConfiguratorPC\API-Configurator\PcPrec\obj\Debug\netcoreapp2.2\AP
 F:\Application-ConfiguratorPC\API-Configurator\PcPrec\obj\Debug\netcoreapp2.2\API.csproj.CopyComplete
 F:\Application-ConfiguratorPC\API-Configurator\PcPrec\obj\Debug\netcoreapp2.2\API.dll
 F:\Application-ConfiguratorPC\API-Configurator\PcPrec\obj\Debug\netcoreapp2.2\API.pdb
+C:\Users\gabri\Desktop\Git\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\gabri\Desktop\Git\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\gabri\Desktop\Git\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\gabri\Desktop\Git\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\API.deps.json
+C:\Users\gabri\Desktop\Git\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+C:\Users\gabri\Desktop\Git\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+C:\Users\gabri\Desktop\Git\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\API.dll
+C:\Users\gabri\Desktop\Git\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\API.pdb
+C:\Users\gabri\Desktop\Git\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\Application.dll
+C:\Users\gabri\Desktop\Git\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\Core.dll
+C:\Users\gabri\Desktop\Git\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\Data.dll
+C:\Users\gabri\Desktop\Git\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Users\gabri\Desktop\Git\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\Data.pdb
+C:\Users\gabri\Desktop\Git\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\Core.pdb
+C:\Users\gabri\Desktop\Git\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
+C:\Users\gabri\Desktop\Git\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+C:\Users\gabri\Desktop\Git\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+C:\Users\gabri\Desktop\Git\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Git\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Git\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+C:\Users\gabri\Desktop\Git\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.csproj.CopyComplete
+C:\Users\gabri\Desktop\Git\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.dll
+C:\Users\gabri\Desktop\Git\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.pdb
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\API.deps.json
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\API.dll
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\API.pdb
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\Application.dll
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\Core.dll
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\Data.dll
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\Data.pdb
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\Core.pdb
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.csproj.CoreCompileInputs.cache
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.csproj.CopyComplete
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.dll
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.pdb

@@ -14,7 +14,7 @@ namespace API.Mappers
                 ImagePath = configuration.ImagePath,
                 Description = configuration.Description,
                 Name = configuration.Name,
-                Components = configuration.Components.Select(s => s.Component.Map())
+                Components = configuration.Components.Select(s => s.Component?.Map())
             };
         }
     }

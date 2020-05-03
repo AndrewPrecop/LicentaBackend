@@ -43,12 +43,10 @@ namespace Application.Services
         {
             var configurationPC = new ConfigurationPC
             {
-                Id = Guid.Parse(command.Id),
+                Id = command.Id,
                 Name = command.Name,
                 Description = command.Description,
-                ImagePath = command.ImagePath,
-               // Components=command.Components
-
+                ImagePath = command.ImagePath
             };
             configurationPC.Components = updateConfigurationComponents(command.Components, configurationPC.Id);
 

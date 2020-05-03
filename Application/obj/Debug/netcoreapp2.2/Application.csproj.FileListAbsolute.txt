@@ -26,3 +26,30 @@ F:\Application-ConfiguratorPC\API-Configurator\Application\obj\Debug\netcoreapp2
 F:\Application-ConfiguratorPC\API-Configurator\Application\obj\Debug\netcoreapp2.2\Application.csproj.CopyComplete
 F:\Application-ConfiguratorPC\API-Configurator\Application\obj\Debug\netcoreapp2.2\Application.dll
 F:\Application-ConfiguratorPC\API-Configurator\Application\obj\Debug\netcoreapp2.2\Application.pdb
+C:\Users\gabri\Desktop\Git\LicentaBackend\Application\bin\Debug\netcoreapp2.2\Application.deps.json
+C:\Users\gabri\Desktop\Git\LicentaBackend\Application\bin\Debug\netcoreapp2.2\Application.dll
+C:\Users\gabri\Desktop\Git\LicentaBackend\Application\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Users\gabri\Desktop\Git\LicentaBackend\Application\bin\Debug\netcoreapp2.2\Core.dll
+C:\Users\gabri\Desktop\Git\LicentaBackend\Application\bin\Debug\netcoreapp2.2\Data.dll
+C:\Users\gabri\Desktop\Git\LicentaBackend\Application\bin\Debug\netcoreapp2.2\Data.pdb
+C:\Users\gabri\Desktop\Git\LicentaBackend\Application\bin\Debug\netcoreapp2.2\Core.pdb
+C:\Users\gabri\Desktop\Git\LicentaBackend\Application\obj\Debug\netcoreapp2.2\Application.csprojAssemblyReference.cache
+C:\Users\gabri\Desktop\Git\LicentaBackend\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Git\LicentaBackend\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Git\LicentaBackend\Application\obj\Debug\netcoreapp2.2\Application.csproj.CopyComplete
+C:\Users\gabri\Desktop\Git\LicentaBackend\Application\obj\Debug\netcoreapp2.2\Application.dll
+C:\Users\gabri\Desktop\Git\LicentaBackend\Application\obj\Debug\netcoreapp2.2\Application.pdb
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\Application\bin\Debug\netcoreapp2.2\Application.deps.json
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\Application\bin\Debug\netcoreapp2.2\Application.dll
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\Application\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\Application\bin\Debug\netcoreapp2.2\Core.dll
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\Application\bin\Debug\netcoreapp2.2\Data.dll
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\Application\bin\Debug\netcoreapp2.2\Data.pdb
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\Application\bin\Debug\netcoreapp2.2\Core.pdb
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\Application\obj\Debug\netcoreapp2.2\Application.csprojAssemblyReference.cache
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\Application\obj\Debug\netcoreapp2.2\Application.csproj.CoreCompileInputs.cache
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfoInputs.cache
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfo.cs
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\Application\obj\Debug\netcoreapp2.2\Application.csproj.CopyComplete
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\Application\obj\Debug\netcoreapp2.2\Application.dll
+C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\Application\obj\Debug\netcoreapp2.2\Application.pdb

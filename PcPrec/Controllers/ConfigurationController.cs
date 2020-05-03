@@ -43,7 +43,7 @@ namespace PcPrec.Controllers
         {
             var result = await _configurationPCService.Add(command);
 
-            return Ok(result);
+            return Ok(result.Map());
         }
 
         [HttpDelete("{id}")]
@@ -53,12 +53,13 @@ namespace PcPrec.Controllers
 
             return NoContent();
         }
-        [HttpPut]
-        public async Task<ActionResult> Put([FromBody] UpdateConfigurationPCCommand command)
+        [HttpPut("{id}")]
+        public async Task<ActionResult> Put(Guid id, [FromBody] UpdateConfigurationPCCommand command)
         {
+            command.Id = id;
             var result = await _configurationPCService.Update(command);
 
-            return Ok(result);
+            return Ok(result.Map());
         }
 
     }

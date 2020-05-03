@@ -26,7 +26,15 @@ namespace Data.Migrations
 
                     b.Property<int>("Amount");
 
+                    b.Property<string>("Brand");
+
+                    b.Property<string>("Description");
+
+                    b.Property<string>("ImagePath");
+
                     b.Property<string>("Name");
+
+                    b.Property<decimal>("Price");
 
                     b.HasKey("Id");
 
