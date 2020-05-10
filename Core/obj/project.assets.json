@@ -2971,11 +2971,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Precop Ciprian\\Desktop\\gabi\\LicentaBackend\\Core\\Core.csproj",
+      "projectUniqueName": "F:\\App-Pc\\LicentaBackend\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\Precop Ciprian\\Desktop\\gabi\\LicentaBackend\\Core\\Core.csproj",
+      "projectPath": "F:\\App-Pc\\LicentaBackend\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\Precop Ciprian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Precop Ciprian\\Desktop\\gabi\\LicentaBackend\\Core\\obj\\",
+      "outputPath": "F:\\App-Pc\\LicentaBackend\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

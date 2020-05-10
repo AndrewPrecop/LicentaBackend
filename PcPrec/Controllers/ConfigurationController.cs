@@ -3,6 +3,7 @@ using Core.Commands;
 using Core.Commands.ConfigurationPC;
 using Core.Entities;
 using Core.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.ComponentModel;
@@ -13,6 +14,7 @@ namespace PcPrec.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class ConfigurationController : ControllerBase
     {
         private readonly IConfigurationPCService _configurationPCService;

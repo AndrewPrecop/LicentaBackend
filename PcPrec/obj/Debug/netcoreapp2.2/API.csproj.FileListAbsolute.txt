@@ -84,3 +84,24 @@ C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\PcPrec\obj\Debug\netcoreapp2
 C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.csproj.CopyComplete
 C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.dll
 C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.pdb
+F:\App-Pc\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\API.deps.json
+F:\App-Pc\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+F:\App-Pc\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+F:\App-Pc\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\API.dll
+F:\App-Pc\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\API.pdb
+F:\App-Pc\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\Application.dll
+F:\App-Pc\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\Core.dll
+F:\App-Pc\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\Data.dll
+F:\App-Pc\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\Application.pdb
+F:\App-Pc\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\Data.pdb
+F:\App-Pc\LicentaBackend\PcPrec\bin\Debug\netcoreapp2.2\Core.pdb
+F:\App-Pc\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
+F:\App-Pc\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.csproj.CoreCompileInputs.cache
+F:\App-Pc\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+F:\App-Pc\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+F:\App-Pc\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+F:\App-Pc\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+F:\App-Pc\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+F:\App-Pc\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.csproj.CopyComplete
+F:\App-Pc\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.dll
+F:\App-Pc\LicentaBackend\PcPrec\obj\Debug\netcoreapp2.2\API.pdb

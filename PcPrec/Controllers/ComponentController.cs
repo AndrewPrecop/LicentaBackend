@@ -1,6 +1,7 @@
 ﻿using API.Mappers;
 using Core.Commands;
 using Core.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.ComponentModel;
@@ -12,6 +13,7 @@ namespace PcPrec.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class ComponentController : ControllerBase
     {
         private readonly IComponentService _componentService;
@@ -22,6 +24,7 @@ namespace PcPrec.Controllers
         }
 
         [HttpGet]
+        
         public async Task<ActionResult> Get()
         {
             var result = await _componentService.GetAll();

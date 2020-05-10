@@ -5348,11 +5348,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Precop Ciprian\\Desktop\\gabi\\LicentaBackend\\Application\\Application.csproj",
+      "projectUniqueName": "F:\\App-Pc\\LicentaBackend\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\Precop Ciprian\\Desktop\\gabi\\LicentaBackend\\Application\\Application.csproj",
+      "projectPath": "F:\\App-Pc\\LicentaBackend\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Precop Ciprian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Precop Ciprian\\Desktop\\gabi\\LicentaBackend\\Application\\obj\\",
+      "outputPath": "F:\\App-Pc\\LicentaBackend\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5371,8 +5371,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Precop Ciprian\\Desktop\\gabi\\LicentaBackend\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\Precop Ciprian\\Desktop\\gabi\\LicentaBackend\\Data\\Data.csproj"
+            "F:\\App-Pc\\LicentaBackend\\Data\\Data.csproj": {
+              "projectPath": "F:\\App-Pc\\LicentaBackend\\Data\\Data.csproj"
             }
           }
         }

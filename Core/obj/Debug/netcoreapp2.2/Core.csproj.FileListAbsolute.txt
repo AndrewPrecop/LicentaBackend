@@ -33,3 +33,12 @@ C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\Core\obj\Debug\netcoreapp2.2
 C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\Core\obj\Debug\netcoreapp2.2\Core.AssemblyInfo.cs
 C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\Core\obj\Debug\netcoreapp2.2\Core.dll
 C:\Users\Precop Ciprian\Desktop\gabi\LicentaBackend\Core\obj\Debug\netcoreapp2.2\Core.pdb
+F:\App-Pc\LicentaBackend\Core\bin\Debug\netcoreapp2.2\Core.deps.json
+F:\App-Pc\LicentaBackend\Core\bin\Debug\netcoreapp2.2\Core.dll
+F:\App-Pc\LicentaBackend\Core\bin\Debug\netcoreapp2.2\Core.pdb
+F:\App-Pc\LicentaBackend\Core\obj\Debug\netcoreapp2.2\Core.csprojAssemblyReference.cache
+F:\App-Pc\LicentaBackend\Core\obj\Debug\netcoreapp2.2\Core.csproj.CoreCompileInputs.cache
+F:\App-Pc\LicentaBackend\Core\obj\Debug\netcoreapp2.2\Core.AssemblyInfoInputs.cache
+F:\App-Pc\LicentaBackend\Core\obj\Debug\netcoreapp2.2\Core.AssemblyInfo.cs
+F:\App-Pc\LicentaBackend\Core\obj\Debug\netcoreapp2.2\Core.dll
+F:\App-Pc\LicentaBackend\Core\obj\Debug\netcoreapp2.2\Core.pdb
