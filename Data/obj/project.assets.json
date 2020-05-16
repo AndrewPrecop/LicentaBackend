@@ -3492,11 +3492,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\App-Pc\\LicentaBackend\\Data\\Data.csproj",
+      "projectUniqueName": "F:\\App-Pc\\LicentaBackend2\\LicentaBackend-master\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "F:\\App-Pc\\LicentaBackend\\Data\\Data.csproj",
+      "projectPath": "F:\\App-Pc\\LicentaBackend2\\LicentaBackend-master\\Data\\Data.csproj",
       "packagesPath": "C:\\Users\\Precop Ciprian\\.nuget\\packages\\",
-      "outputPath": "F:\\App-Pc\\LicentaBackend\\Data\\obj\\",
+      "outputPath": "F:\\App-Pc\\LicentaBackend2\\LicentaBackend-master\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3515,8 +3515,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "F:\\App-Pc\\LicentaBackend\\Core\\Core.csproj": {
-              "projectPath": "F:\\App-Pc\\LicentaBackend\\Core\\Core.csproj"
+            "F:\\App-Pc\\LicentaBackend2\\LicentaBackend-master\\Core\\Core.csproj": {
+              "projectPath": "F:\\App-Pc\\LicentaBackend2\\LicentaBackend-master\\Core\\Core.csproj"
             }
           }
         }

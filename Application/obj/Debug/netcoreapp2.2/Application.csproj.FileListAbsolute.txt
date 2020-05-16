@@ -67,3 +67,17 @@ F:\App-Pc\LicentaBackend\Application\obj\Debug\netcoreapp2.2\Application.Assembl
 F:\App-Pc\LicentaBackend\Application\obj\Debug\netcoreapp2.2\Application.csproj.CopyComplete
 F:\App-Pc\LicentaBackend\Application\obj\Debug\netcoreapp2.2\Application.dll
 F:\App-Pc\LicentaBackend\Application\obj\Debug\netcoreapp2.2\Application.pdb
+F:\App-Pc\LicentaBackend2\LicentaBackend-master\Application\bin\Debug\netcoreapp2.2\Application.deps.json
+F:\App-Pc\LicentaBackend2\LicentaBackend-master\Application\bin\Debug\netcoreapp2.2\Application.dll
+F:\App-Pc\LicentaBackend2\LicentaBackend-master\Application\bin\Debug\netcoreapp2.2\Application.pdb
+F:\App-Pc\LicentaBackend2\LicentaBackend-master\Application\bin\Debug\netcoreapp2.2\Core.dll
+F:\App-Pc\LicentaBackend2\LicentaBackend-master\Application\bin\Debug\netcoreapp2.2\Data.dll
+F:\App-Pc\LicentaBackend2\LicentaBackend-master\Application\bin\Debug\netcoreapp2.2\Data.pdb
+F:\App-Pc\LicentaBackend2\LicentaBackend-master\Application\bin\Debug\netcoreapp2.2\Core.pdb
+F:\App-Pc\LicentaBackend2\LicentaBackend-master\Application\obj\Debug\netcoreapp2.2\Application.csprojAssemblyReference.cache
+F:\App-Pc\LicentaBackend2\LicentaBackend-master\Application\obj\Debug\netcoreapp2.2\Application.csproj.CoreCompileInputs.cache
+F:\App-Pc\LicentaBackend2\LicentaBackend-master\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfoInputs.cache
+F:\App-Pc\LicentaBackend2\LicentaBackend-master\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfo.cs
+F:\App-Pc\LicentaBackend2\LicentaBackend-master\Application\obj\Debug\netcoreapp2.2\Application.csproj.CopyComplete
+F:\App-Pc\LicentaBackend2\LicentaBackend-master\Application\obj\Debug\netcoreapp2.2\Application.dll
+F:\App-Pc\LicentaBackend2\LicentaBackend-master\Application\obj\Debug\netcoreapp2.2\Application.pdb

@@ -30,7 +30,8 @@ namespace Application.Services
                 Id = Guid.NewGuid(),
                 Name = command.Name,
                 Description = command.Description,
-                ImagePath = command.ImagePath
+                ImagePath = command.ImagePath,
+               // Price = command.Price
             };
 
             configurationPC.Components = createConfigurationComponents(command.Components, configurationPC.Id);
@@ -46,7 +47,8 @@ namespace Application.Services
                 Id = command.Id,
                 Name = command.Name,
                 Description = command.Description,
-                ImagePath = command.ImagePath
+                ImagePath = command.ImagePath,
+              //  Price = command.Price
             };
             configurationPC.Components = updateConfigurationComponents(command.Components, configurationPC.Id);
 
