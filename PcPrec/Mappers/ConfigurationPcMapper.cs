@@ -14,8 +14,8 @@ namespace API.Mappers
                 ImagePath = configuration.ImagePath,
                 Description = configuration.Description,
                 Name = configuration.Name,
-               // Price =configuration.Price,
-                Components = configuration.Components.Select(s => s.Component?.Map())
+               
+                Components = configuration.Components.Count()>0 && configuration.Components.First().Component!=null?configuration.Components.Select(s => s.Component.Map(s.Amount)).OrderBy(o =>o.Type):null
             };
         }
     }

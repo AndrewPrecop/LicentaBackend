@@ -4,6 +4,7 @@ using Data.Context;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace Data.Repositories
@@ -58,5 +59,16 @@ namespace Data.Repositories
         {
             await _context.SaveChangesAsync();
         }
+        public async Task RemoveComponents(Guid id)
+        {
+            _context.ConfigurationComponents.RemoveRange(_context.ConfigurationComponents.Where(c => c.ConfigurationPcId == id));
+            await Save();
+        }
+        public async Task CreateConfigurationComponents(IEnumerable <ConfigurationComponent> components)
+        {
+            _context.ConfigurationComponents.AddRange(components);
+            await Save();
+        }
+
     }
 }

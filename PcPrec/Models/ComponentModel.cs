@@ -1,4 +1,5 @@
 ﻿using System;
+using Core.Entities;
 
 namespace API.Models
 {
@@ -11,5 +12,6 @@ namespace API.Models
         public string ImagePath { get; set; }
         public decimal Price { get; set; }
         public int Amount { get; set; }
-    }
+        public Core.Entities.Type Type { get; set; }
+     }
 }

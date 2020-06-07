@@ -1,4 +1,5 @@
-﻿using System;
+﻿using API.Models;
+using System;
 using System.Collections.Generic;
 
 namespace Core.Commands.ConfigurationPC
@@ -10,6 +11,6 @@ namespace Core.Commands.ConfigurationPC
        // [Column(TypeName = "decimal(18, 2)")]
        // public decimal Price { get; set; }
 
-        public IEnumerable<Guid> Components { get; set; }
+        public IEnumerable<ConfigurationComponentModel> Components { get; set; }
     }
 }

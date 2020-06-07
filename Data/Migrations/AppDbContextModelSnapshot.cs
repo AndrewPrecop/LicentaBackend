@@ -34,7 +34,9 @@ namespace Data.Migrations
 
                     b.Property<string>("Name");
 
-                    b.Property<decimal>("Price");
+                    b.Property<int>("Price");
+
+                    b.Property<int>("Type");
 
                     b.HasKey("Id");
 
@@ -46,6 +48,8 @@ namespace Data.Migrations
                     b.Property<Guid>("ConfigurationPcId");
 
                     b.Property<Guid>("ComponentId");
+
+                    b.Property<int>("Amount");
 
                     b.HasKey("ConfigurationPcId", "ComponentId");
 
@@ -72,13 +76,8 @@ namespace Data.Migrations
 
             modelBuilder.Entity("Core.Entities.User", b =>
                 {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<string>("FirstName");
-
-                    b.Property<string>("LastName");
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd();
 
                     b.Property<string>("Password");
 

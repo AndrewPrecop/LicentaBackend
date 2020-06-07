@@ -35,7 +35,8 @@ namespace Application.Services
                 Description=command.Description,
                 ImagePath=command.ImagePath,
                 Price=command.Price,
-                Amount = command.Amount
+                Amount = command.Amount,
+                Type = command.Type
             };
 
             await _componentRepository.Add(component);
@@ -52,7 +53,8 @@ namespace Application.Services
                 Description = command.Description,
                 ImagePath = command.ImagePath,
                 Price = command.Price,
-                Amount = command.Amount
+                Amount = command.Amount,
+                Type = command.Type
             };
 
             await _componentRepository.Update(component);

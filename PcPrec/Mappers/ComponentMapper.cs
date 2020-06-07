@@ -5,7 +5,7 @@ namespace API.Mappers
 {
     public static class ComponentMapper
     {
-        public static ComponentModel Map(this Component component)
+        public static ComponentModel Map(this Component component,int amount=-1)
         {
             return new ComponentModel
             {
@@ -15,7 +15,8 @@ namespace API.Mappers
                 Description = component.Description,
                 ImagePath = component.ImagePath,
                 Price = component.Price,
-                Amount = component.Amount
+                Amount = amount == -1 ? component.Amount : amount,
+                Type = component.Type
             };
         }
     }

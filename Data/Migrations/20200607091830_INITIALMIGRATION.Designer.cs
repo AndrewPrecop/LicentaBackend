@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Data.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20200309204007_user")]
-    partial class user
+    [Migration("20200607091830_INITIALMIGRATION")]
+    partial class INITIALMIGRATION
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -28,7 +28,17 @@ namespace Data.Migrations
 
                     b.Property<int>("Amount");
 
+                    b.Property<string>("Brand");
+
+                    b.Property<string>("Description");
+
+                    b.Property<string>("ImagePath");
+
                     b.Property<string>("Name");
+
+                    b.Property<int>("Price");
+
+                    b.Property<int>("Type");
 
                     b.HasKey("Id");
 
@@ -55,7 +65,7 @@ namespace Data.Migrations
 
                     b.Property<string>("Description");
 
-                    b.Property<string>("Image");
+                    b.Property<string>("ImagePath");
 
                     b.Property<string>("Name");
 
@@ -66,13 +76,8 @@ namespace Data.Migrations
 
             modelBuilder.Entity("Core.Entities.User", b =>
                 {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<string>("FirstName");
-
-                    b.Property<string>("LastName");
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd();
 
                     b.Property<string>("Password");
 

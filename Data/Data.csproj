@@ -6,6 +6,8 @@
 
   <ItemGroup>
     <Compile Remove="Migrations\20200309203633_createUser.cs" />
+    <Compile Remove="Migrations\20200604154404_ComponentType.cs" />
+    <Compile Remove="Migrations\20200607090556_Adaugaretype.cs" />
   </ItemGroup>
 
   <ItemGroup>

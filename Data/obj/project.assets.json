@@ -2074,6 +2074,7 @@
       "path": "system.globalization/4.0.11",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2162,6 +2163,7 @@
       "path": "system.io/4.1.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2548,6 +2550,7 @@
       "path": "system.reflection/4.1.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2779,6 +2782,7 @@
       "path": "system.reflection.primitives/4.0.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2888,6 +2892,7 @@
       "path": "system.resources.resourcemanager/4.0.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2944,6 +2949,7 @@
       "path": "system.runtime/4.1.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3225,6 +3231,7 @@
       "path": "system.text.encoding/4.0.11",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3340,6 +3347,7 @@
       "path": "system.threading/4.0.11",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3410,6 +3418,7 @@
       "path": "system.threading.tasks/4.0.11",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3492,11 +3501,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\App-Pc\\LicentaBackend2\\LicentaBackend-master\\Data\\Data.csproj",
+      "projectUniqueName": "F:\\App-Pc\\LicentaBackend\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "F:\\App-Pc\\LicentaBackend2\\LicentaBackend-master\\Data\\Data.csproj",
+      "projectPath": "F:\\App-Pc\\LicentaBackend\\Data\\Data.csproj",
       "packagesPath": "C:\\Users\\Precop Ciprian\\.nuget\\packages\\",
-      "outputPath": "F:\\App-Pc\\LicentaBackend2\\LicentaBackend-master\\Data\\obj\\",
+      "outputPath": "F:\\App-Pc\\LicentaBackend\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3515,8 +3524,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "F:\\App-Pc\\LicentaBackend2\\LicentaBackend-master\\Core\\Core.csproj": {
-              "projectPath": "F:\\App-Pc\\LicentaBackend2\\LicentaBackend-master\\Core\\Core.csproj"
+            "F:\\App-Pc\\LicentaBackend\\Core\\Core.csproj": {
+              "projectPath": "F:\\App-Pc\\LicentaBackend\\Core\\Core.csproj"
             }
           }
         }

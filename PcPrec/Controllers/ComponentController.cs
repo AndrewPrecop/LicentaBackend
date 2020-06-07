@@ -43,14 +43,6 @@ namespace PcPrec.Controllers
             return Ok(result.Map());
         }
 
-        //[HttpGet("{id}")]
-        //public async Task<ActionResult<Component>> Get(Guid id)
-        //{
-        //    var result = await _componentService.GetById(id);
-
-        //    return Ok(result);
-        //}
-
         [HttpPost]
         public async Task<ActionResult> Post([FromBody] AddComponentCommand command)
         {
@@ -74,11 +66,6 @@ namespace PcPrec.Controllers
 
             return Ok(result);
         }
-        //[HttpGet("{id}")]
-        //public ActionResult<string> Get(int id)
-        //{
-        //    return "value";
-        //}
     }
 
 }   

@@ -1,4 +1,5 @@
-﻿using Core.Commands.ConfigurationPC;
+﻿using API.Models;
+using Core.Commands.ConfigurationPC;
 using Core.Entities;
 using Core.Repositories;
 using Core.Services;
@@ -31,7 +32,7 @@ namespace Application.Services
                 Name = command.Name,
                 Description = command.Description,
                 ImagePath = command.ImagePath,
-               // Price = command.Price
+               
             };
 
             configurationPC.Components = createConfigurationComponents(command.Components, configurationPC.Id);
@@ -48,28 +49,31 @@ namespace Application.Services
                 Name = command.Name,
                 Description = command.Description,
                 ImagePath = command.ImagePath,
-              //  Price = command.Price
+             
             };
-            configurationPC.Components = updateConfigurationComponents(command.Components, configurationPC.Id);
+            await _configurationPCRepository.RemoveComponents(command.Id);
+            var components = createConfigurationComponents(command.Components, configurationPC.Id);
 
             await _configurationPCRepository.Update(configurationPC);
-
+            await _configurationPCRepository.CreateConfigurationComponents(components);
             return configurationPC;
         }
 
-        private IEnumerable<ConfigurationComponent> createConfigurationComponents(IEnumerable<Guid> components, Guid configurationId)
+        private IEnumerable<ConfigurationComponent> createConfigurationComponents(IEnumerable<ConfigurationComponentModel> components, Guid configurationId)
         {
             return components.Select(c => new ConfigurationComponent
             {
-                ComponentId = c,
+                ComponentId = c.Id,
+                Amount = c.Amount,
                 ConfigurationPcId = configurationId
             }).ToList();
         }
-        private IEnumerable<ConfigurationComponent> updateConfigurationComponents(IEnumerable<Guid> components, Guid configurationId)
+        private IEnumerable<ConfigurationComponent> updateConfigurationComponents(IEnumerable<ConfigurationComponentModel> components, Guid configurationId)
         {
             return components.Select(c=> new ConfigurationComponent
             {
-                ComponentId = c,
+                ComponentId = c.Id,
+                Amount =c.Amount,
                 ConfigurationPcId = configurationId
             }).ToList();
         }

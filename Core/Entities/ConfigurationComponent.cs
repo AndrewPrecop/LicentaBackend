@@ -8,6 +8,7 @@ namespace Core.Entities
         public Guid ConfigurationPcId { get; set; }
         public Component Component { get; set; }
         public Guid ComponentId { get; set; }
-       
+        public int Amount { get; set; }
+
     }
 }

@@ -2,13 +2,13 @@
 
 namespace Data.Migrations
 {
-    public partial class SecondMigration : Migration
+    public partial class addedconfigurationamount : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.AddColumn<int>(
                 name: "Amount",
-                table: "Components",
+                table: "ConfigurationComponents",
                 nullable: false,
                 defaultValue: 0);
         }
@@ -17,7 +17,7 @@ namespace Data.Migrations
         {
             migrationBuilder.DropColumn(
                 name: "Amount",
-                table: "Components");
+                table: "ConfigurationComponents");
         }
     }
 }

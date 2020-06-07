@@ -17,6 +17,7 @@ namespace Data.Context
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+         
             modelBuilder.Entity<ConfigurationComponent>()
                 .HasKey(cc => new { cc.ConfigurationPcId, cc.ComponentId });
             modelBuilder.Entity<ConfigurationComponent>()

@@ -12,7 +12,9 @@ namespace Core.Repositories
         Task<ConfigurationPC> Add(ConfigurationPC configurationPC);
         Task<ConfigurationPC> Update(ConfigurationPC configurationPC);
         Task Delete(Guid id);
-        //Task Fetch (Guid id);
+        Task RemoveComponents(Guid id);
+        Task CreateConfigurationComponents(IEnumerable<ConfigurationComponent> components);
+
 
     }
 
