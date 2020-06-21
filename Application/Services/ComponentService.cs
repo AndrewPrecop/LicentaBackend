@@ -47,7 +47,7 @@ namespace Application.Services
         {
             var component = new Component
             {
-                Id = Guid.Parse(command.Id),
+                Id = command.Id,
                 Name = command.Name,
                 Brand = command.Brand,
                 Description = command.Description,
@@ -56,7 +56,9 @@ namespace Application.Services
                 Amount = command.Amount,
                 Type = command.Type
             };
-
+            //am pus
+           // await _componentRepository.RemoveComponent(command.Id);
+            //pana aici
             await _componentRepository.Update(component);
 
             return component;

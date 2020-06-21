@@ -10,7 +10,7 @@
   <Class Name="Core.Entities.ConfigurationComponent">
     <Position X="6.25" Y="2.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAgAAAAAAQAAAAAAAAAAAAABACAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAQACAAAAAAAAAAABACAAAAAA=</HashCode>
       <FileName>Entities\ConfigurationComponent.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -30,22 +30,12 @@
   </Class>
   <Class Name="System.Object" Collapsed="true">
     <Position X="4.5" Y="0.5" Width="1.5" />
-    <Members>
-      <Method Name="Finalize" Hidden="true" />
-      <Method Name="Equals" Hidden="true" />
-      <Method Name="GetHashCode" Hidden="true" />
-      <Method Name="GetType" Hidden="true" />
-      <Method Name="MemberwiseClone" Hidden="true" />
-      <Method Name="Object" Hidden="true" />
-      <Method Name="ReferenceEquals" Hidden="true" />
-      <Method Name="ToString" Hidden="true" />
-    </Members>
     <TypeIdentifier />
   </Class>
   <Enum Name="Core.Entities.Type">
-    <Position X="4.5" Y="2.5" Width="1.5" />
+    <Position X="4.5" Y="2" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAACAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>CACgAAAAAAAAAAAAAACAIDCIAAAAEAAAAAAAAAAAAAA=</HashCode>
       <FileName>Entities\Type.cs</FileName>
     </TypeIdentifier>
   </Enum>

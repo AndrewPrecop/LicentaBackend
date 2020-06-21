@@ -40,5 +40,13 @@ namespace PcPrec.Controllers
             var users = _userService.GetAll();
             return Ok(users);
         }
+
+        [HttpGet("admin")]
+        public IActionResult IsAdmin()
+        {
+            var isAdmin = new Guid(Request.HttpContext.User.Identity.Name) == Guid.Empty;
+           
+            return Ok(isAdmin);
+        }
     }
 }

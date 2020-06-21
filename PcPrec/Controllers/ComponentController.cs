@@ -26,7 +26,9 @@ namespace PcPrec.Controllers
         [HttpGet]
         
         public async Task<ActionResult> Get()
+
         {
+          
             var result = await _componentService.GetAll();
 
             return Ok(result.Select(c => c.Map()).ToList());
@@ -59,9 +61,10 @@ namespace PcPrec.Controllers
             return NoContent();
         }
 
-        [HttpPut]
-        public async Task<ActionResult> Put([FromBody] UpdateComponentCommand command)
+        [HttpPut("{id}")]
+        public async Task<ActionResult> Put(Guid id,[FromBody] UpdateComponentCommand command)
         {
+            command.Id = id;
             var result = await _componentService.Update(command);
 
             return Ok(result);
